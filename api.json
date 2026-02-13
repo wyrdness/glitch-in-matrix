@@ -1,10 +1,8 @@
 {
-  "category": "ANOMALY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/glitch-in-matrix",
     "maintainers": [
       {
@@ -18,392 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "glitch-in-matrix",
     "name": "Glitch in the Matrix",
-    "aliases": [
-      {
-        "name": "Reality Glitch",
-        "meaning": "Perceived temporary malfunction in reality"
-      },
-      {
-        "name": "Matrix Glitch",
-        "meaning": "Reference to simulation theory from The Matrix (1999)"
-      },
-      {
-        "name": "Reality Error",
-        "meaning": "Apparent error or inconsistency in perceived reality"
-      }
-    ],
+    "aliases": [],
     "category": "ANOMALY",
-    "subcategory": "Reality Glitches",
+    "subcategory": "Reported",
     "tags": [
-      "reality-anomaly",
-      "simulation-theory",
-      "deja-vu",
-      "false-memory",
-      "perception",
-      "modern-phenomenon",
-      "internet-culture"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "Named from 'The Matrix' (1999), refers to experiences of reality appearing to 'glitch' or malfunction - including déjà vu, objects appearing/disappearing, people or places changing unexpectedly, and timeline inconsistencies.",
-      "full": "Glitch in the Matrix is a modern phenomenon popularized by the 1999 film 'The Matrix,' referring to experiences where reality appears to temporarily malfunction or 'glitch.' Reports include déjà vu, objects mysteriously appearing or disappearing, people or places changing unexpectedly, duplicate people, timeline inconsistencies, and reality seeming to 'reset.' The Reddit community r/Glitch_in_the_Matrix has over 500,000 members sharing personal experiences. Theories range from simulation theory (reality is a computer simulation) to parallel universe bleed-through, false memories, and mundane explanations like inattention. Neuroscience explains déjà vu and false memories are well-documented cognitive phenomena, though some experiences remain compelling anecdotes. The phenomenon relates closely to the Mandela Effect and simulation hypothesis discourse."
+      "summary": "Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \\\"glitch.",
+      "full": "Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \\\"glitch.\\\" Reports include déjà vu, objects mysteriously appearing or disappearing, people or places changing unexpectedly, duplicate people, timeline inconsistencies, and reality seeming to \\\"reset.\\\" The Reddit community r/Glitch_in_the_Matrix has over 500,000 members sharing personal experiences. While neuroscience explains déjà vu and false memories as well-documented cognitive phenomena, the volume and consistency of reports make this a compelling modern folklore phenomenon."
     },
     "etymology": {
-      "origin": "Coined from the 1999 film 'The Matrix' directed by the Wachowskis, where a 'glitch in the matrix' indicated a change in the simulated reality",
-      "meaning": "Visual or experiential anomaly suggesting underlying reality is computer-generated and malfunctioning",
-      "first_use": "1999 (film release), popularized online circa 2009"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ANOMALY",
-      "type": "Reality Glitch",
-      "subtype": "Perceptual/Cognitive",
-      "variant": "Modern/Internet-era"
+      "type": "Reported",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "mandela-effect",
-        "name": "Mandela Effect",
-        "relationship": "closely_related",
-        "description": "Collective false memories, often cited as evidence of reality changes"
-      },
-      {
-        "id": "time-slips",
-        "name": "Time Slips",
-        "relationship": "similar",
-        "description": "Experiences of temporarily entering different time periods"
-      },
-      {
-        "id": "deja-vu",
-        "name": "Déjà Vu",
-        "relationship": "subset",
-        "description": "Feeling of having experienced current moment before"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "types": [
-      {
-        "type": "Déjà Vu",
-        "description": "Strong feeling of having experienced current moment before",
-        "frequency": "very common",
-        "explanation": "Well-understood neurological phenomenon"
-      },
-      {
-        "type": "Objects appearing/disappearing",
-        "description": "Items vanish and reappear in impossible locations",
-        "frequency": "common",
-        "explanation": "Usually inattention, misplacement, memory error"
-      },
-      {
-        "type": "People changing",
-        "description": "Known person appears different or doesn't recognize you",
-        "frequency": "occasional",
-        "explanation": "Misidentification, false memory"
-      },
-      {
-        "type": "Duplicate people",
-        "description": "Seeing same person in two places simultaneously",
-        "frequency": "rare",
-        "explanation": "Lookalikes, temporal confusion"
-      },
-      {
-        "type": "Reality resets",
-        "description": "Experience repeats or scene 'reloads' like video game",
-        "frequency": "rare",
-        "explanation": "Memory malfunction, attention lapse"
-      },
-      {
-        "type": "Timeline inconsistencies",
-        "description": "Missing time or events remembered differently",
-        "frequency": "occasional",
-        "explanation": "False memory, confabulation"
-      },
-      {
-        "type": "Place changes",
-        "description": "Familiar location has different layout or features",
-        "frequency": "occasional",
-        "explanation": "False memory, actual renovation, misremembering"
-      }
-    ],
-    "common_elements": [
-      "Sudden, brief duration (seconds to minutes)",
-      "Witnesses often alone or experience differs from others present",
-      "Strong conviction of impossibility",
-      "Mundane settings (home, work, familiar locations)",
-      "Often involves familiar people or objects"
-    ]
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-
   "distribution": {
     "range": {
-      "description": "Global phenomenon, heavily concentrated in online communities, particularly English-speaking internet",
-      "continents": ["Global"],
-      "primary_platforms": [
-        "Reddit (r/Glitch_in_the_Matrix)",
-        "YouTube",
-        "TikTok",
-        "Various paranormal forums"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1999",
-        "circa": false,
-        "source": "The Matrix film popularized the concept"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "2009-present",
-          "description": "Rise of r/Glitch_in_the_Matrix subreddit and online sharing culture"
-        },
-        {
-          "period": "2020-present",
-          "description": "TikTok and social media amplification"
-        }
-      ]
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Modern phenomenon rooted in simulation hypothesis (Nick Bostrom 2003) and popularized by The Matrix film series",
-      "earliest_accounts": "Individual experiences of déjà vu and strange coincidences have always existed, but framing as 'glitches' is post-1999",
-      "folklore_connections": "Related to older concepts of fairy time, time slips, parallel worlds"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1999-03-31",
-        "event": "The Matrix film released",
-        "significance": "Introduced 'glitch in the matrix' concept to popular culture",
-        "source": "Warner Bros."
-      },
-      {
-        "date": "2003",
-        "event": "Nick Bostrom's simulation hypothesis",
-        "significance": "Philosophical argument that we might live in computer simulation",
-        "source": "Philosophical Quarterly paper"
-      },
-      {
-        "date": "2009",
-        "event": "r/Glitch_in_the_Matrix subreddit created",
-        "significance": "Centralized community for sharing experiences",
-        "source": "Reddit"
-      },
-      {
-        "date": "2016-2020",
-        "event": "Simulation theory mainstream discourse",
-        "significance": "Elon Musk, Neil deGrasse Tyson discuss simulation hypothesis publicly",
-        "source": "Various media"
-      }
-    ],
-    "modern_era": "Active online community with daily submissions. Experiences range from trivial (misplaced keys) to compelling (multiple witnesses, impossible coincidences). Largely explained by cognitive science but maintains cultural resonance."
+    "timeline": []
   },
-
-  "experiences": {
+  "sightings": {
     "statistics": {
-      "total_documented": 50000,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 50000,
-      "date_range": {
-        "earliest": "1999",
-        "latest": "2026"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable_types": [
-      {
-        "id": "glitch-missing-object",
-        "name": "Vanishing Object Phenomenon",
-        "description": "Object disappears from secure location, reappears later in impossible place (already searched, locked room, etc.)",
-        "frequency": "Most common type reported",
-        "credibility": {
-          "rating": "low",
-          "factors": ["Mundane explanation available", "Memory unreliable", "Confirmation bias"],
-          "notes": "Easily explained by inattention and selective memory"
-        }
-      },
-      {
-        "id": "glitch-duplicate-person",
-        "name": "Doppelganger Glitch",
-        "description": "Seeing same person in two locations simultaneously or conversation partner suddenly wearing different clothes",
-        "frequency": "Rare",
-        "credibility": {
-          "rating": "low",
-          "factors": ["Lookalikes exist", "Memory unreliable", "Temporal confusion"],
-          "notes": "Usually misidentification or memory error"
-        }
-      },
-      {
-        "id": "glitch-reality-reset",
-        "name": "Reality Reset",
-        "description": "Scene appears to 'reload' or repeat, like video game respawn",
-        "frequency": "Very rare",
-        "credibility": {
-          "rating": "low",
-          "factors": ["Memory malfunction", "Déjà vu", "Attention lapse"],
-          "notes": "No physical evidence ever produced"
-        }
-      }
-    ]
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "type": "none",
-        "description": "No physical evidence of reality glitches exists; entirely testimonial"
-      }
-    ],
-    "testimonial": [
-      {
-        "type": "personal accounts",
-        "name": "Reddit r/Glitch_in_the_Matrix",
-        "description": "Over 500,000 members sharing experiences",
-        "status": "ongoing",
-        "analysis": "Anecdotal, no verification possible, selection bias"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Simulation Theory",
-        "description": "Reality is a computer simulation; glitches are programming errors or rendering issues",
-        "proponents": ["Some simulation hypothesis advocates", "Online communities"],
-        "evidence_cited": ["Consistency of reports", "Déjà vu as cache reload", "Quantum mechanics parallels"]
-      },
-      {
-        "name": "Parallel Universe Bleed-Through",
-        "description": "Glitches are moments where parallel timelines intersect or bleed through",
-        "proponents": ["Multiverse enthusiasts", "Some Mandela Effect theorists"],
-        "evidence_cited": ["Mandela Effect", "Quantum immortality", "Many-worlds interpretation"]
-      },
-      {
-        "name": "Time Travel/Temporal Manipulation",
-        "description": "Changes in timeline due to time travelers altering past",
-        "proponents": ["Science fiction fans", "Some online theorists"],
-        "evidence_cited": ["Timeline inconsistencies", "Mandela Effect"]
-      }
-    ],
-    "scientific": [
-      {
-        "name": "False Memory and Confabulation",
-        "description": "Brain fills in gaps in memory; we misremember events and are confident in false memories",
-        "proponents": ["Cognitive psychologists", "Neuroscientists"],
-        "evidence_cited": ["Extensive research on false memory", "Elizabeth Loftus studies", "Known memory malleability"]
-      },
-      {
-        "name": "Déjà Vu (Neurological)",
-        "description": "Mismatch in brain's memory systems creates false sense of familiarity",
-        "proponents": ["Neuroscientists"],
-        "evidence_cited": ["fMRI studies", "Well-established phenomenon", "Occurs in 60-70% of population"]
-      },
-      {
-        "name": "Inattentional Blindness",
-        "description": "Failure to notice obvious changes due to limited attention; misplaced objects forgotten",
-        "proponents": ["Cognitive psychologists"],
-        "evidence_cited": ["Change blindness experiments", "Invisible gorilla study", "Attention limitations"]
-      },
-      {
-        "name": "Confirmation Bias and Pattern-Seeking",
-        "description": "Humans seek patterns and remember hits while forgetting misses",
-        "proponents": ["Psychologists", "Skeptics"],
-        "evidence_cited": ["Cognitive bias research", "Selection bias", "Availability heuristic"]
-      },
-      {
-        "name": "Sleep Deprivation and Altered States",
-        "description": "Fatigue, stress, substances cause perceptual and memory distortions",
-        "proponents": ["Medical researchers"],
-        "evidence_cited": ["Known effects of sleep deprivation", "Hypnagogic states"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "internet_culture": {
-      "communities": [
-        "r/Glitch_in_the_Matrix (Reddit) - 500k+ members",
-        "r/MandelaEffect (related community)",
-        "YouTube channels dedicated to glitch stories",
-        "TikTok #glitchinthematrix tag"
-      ],
-      "significance": "Modern folklore developing in real-time through internet; demonstrates how memes and cultural frameworks shape interpretation of mundane experiences"
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "film_tv": [
-        "The Matrix trilogy (1999-2003) - Origin of terminology",
-        "The Truman Show (1998) - Reality as simulation",
-        "Dark City (1998) - Reality manipulation",
-        "Westworld (HBO series) - Simulation theme"
-      ],
-      "literature": [
-        "Simulacra and Simulation by Jean Baudrillard (1981)",
-        "Various science fiction exploring simulation themes"
-      ],
-      "philosophy": [
-        "Nick Bostrom's simulation argument (2003)",
-        "Philosophical discussions by public figures (Elon Musk, Neil deGrasse Tyson)"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "scientific_context": [
-      {
-        "name": "Dr. Elizabeth Loftus",
-        "affiliation": "UC Irvine",
-        "contribution": "Pioneering research on false memories and memory malleability",
-        "period": "1970s-present"
-      },
-      {
-        "name": "Dr. Akira O'Connor",
-        "affiliation": "University of St Andrews",
-        "contribution": "Déjà vu research using fMRI and memory systems",
-        "period": "2000s-present"
-      }
-    ],
-    "relevant_fields": [
-      "Cognitive psychology (memory, attention)",
-      "Neuroscience (brain mechanisms of memory)",
-      "Philosophy (simulation hypothesis)",
-      "Sociology (internet folklore)"
-    ]
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "bostrom-2003",
-      "type": "paper",
-      "title": "Are You Living in a Computer Simulation?",
-      "authors": ["Nick Bostrom"],
-      "publication": "Philosophical Quarterly",
-      "date": "2003",
-      "volume": "53",
-      "issue": "211"
-    },
-    {
-      "id": "loftus-palmer-1974",
-      "type": "paper",
-      "title": "Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory",
-      "authors": ["Elizabeth Loftus", "John Palmer"],
-      "publication": "Journal of Verbal Learning and Verbal Behavior",
-      "date": "1974"
-    },
-    {
-      "id": "oconnor-2021",
-      "type": "paper",
-      "title": "The Neural Basis of Déjà Vu",
-      "authors": ["Akira O'Connor", "et al."],
-      "publication": "Cortex",
-      "date": "2021"
-    }
-  ]
+  "sources": []
 }
